@@ -1,0 +1,7 @@
+﻿F:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(519,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+F:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  MainController.cpp
+  MessageElement.cpp
+F:\GitHub\chat-server-client\chat-server-client\chat-client\src\model\MessageElement.cpp(35,25): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  chat-client.vcxproj -> F:\GitHub\chat-server-client\chat-server-client\chat-client\target\chat-client.exe
